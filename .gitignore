@@ -1,0 +1,5 @@
+__pycache__
+.ipynb_checkpoints
+small_data
+*.zip
+data
